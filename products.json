@@ -1,0 +1,63 @@
+{
+  "reseller_cvps_nat": {
+    "name": "Reseller Cvps NAT",
+    "price": 5000,
+    "category": "Reseller",
+    "description": "Akses reseller untuk membuat VPS NAT (Network Address Translation). Cocok untuk jualan VPS murah dengan IP sharing.",
+    "features": [
+      "Bisa buat VPS NAT unlimited",
+      "IP sharing / port forwarding",
+      "Akses panel reseller",
+      "Support via DM"
+    ]
+  },
+  "panel_pterodactyl_1k": {
+    "name": "Panel Pterodactyl 1GB RAM",
+    "price": 1000,
+    "category": "Panel Pterodactyl",
+    "description": "Panel Pterodactyl untuk hosting game/server dengan RAM 1GB.",
+    "features": ["RAM 1GB", "CPU 100%", "Disk 5GB", "Akses panel penuh", "Support Node.js, Python, Java"]
+  },
+  "panel_pterodactyl_2k": {
+    "name": "Panel Pterodactyl 2GB RAM",
+    "price": 2000,
+    "category": "Panel Pterodactyl",
+    "description": "Panel Pterodactyl dengan RAM 2GB.",
+    "features": ["RAM 2GB", "CPU 150%", "Disk 10GB", "Akses panel penuh"]
+  },
+  "panel_pterodactyl_3k": {
+    "name": "Panel Pterodactyl 3GB RAM",
+    "price": 3000,
+    "category": "Panel Pterodactyl",
+    "description": "Panel Pterodactyl dengan RAM 3GB.",
+    "features": ["RAM 3GB", "CPU 200%", "Disk 15GB", "Akses panel penuh"]
+  },
+  "panel_pterodactyl_4k": {
+    "name": "Panel Pterodactyl 4GB RAM",
+    "price": 4000,
+    "category": "Panel Pterodactyl",
+    "description": "Panel Pterodactyl dengan RAM 4GB.",
+    "features": ["RAM 4GB", "CPU 250%", "Disk 20GB", "Akses panel penuh"]
+  },
+  "panel_pterodactyl_5k": {
+    "name": "Panel Pterodactyl 5GB RAM",
+    "price": 5000,
+    "category": "Panel Pterodactyl",
+    "description": "Panel Pterodactyl dengan RAM 5GB.",
+    "features": ["RAM 5GB", "CPU 300%", "Disk 25GB", "Akses panel penuh"]
+  },
+  "panel_pterodactyl_7k": {
+    "name": "Panel Pterodactyl 7GB RAM",
+    "price": 7000,
+    "category": "Panel Pterodactyl",
+    "description": "Panel Pterodactyl dengan RAM 7GB. Paket tertinggi.",
+    "features": ["RAM 7GB", "CPU 400%", "Disk 35GB", "Akses panel penuh", "Prioritas support"]
+  },
+  "reseller_panel": {
+    "name": "Reseller Panel Pterodactyl",
+    "price": 5000,
+    "category": "Reseller",
+    "description": "Akses reseller untuk menjual panel Pterodactyl.",
+    "features": ["Bisa buat akun panel unlimited", "Atur RAM/CPU/Disk sendiri", "Kelola customer panel", "Support via DM"]
+  }
+}
