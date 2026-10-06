@@ -1,0 +1,21 @@
+{
+  "name": "putzzpedia-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot PutzzPedia Cvps - Perangkat Tertaut (Linked Device)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.7.2",
+    "ssh2": "^1.15.0",
+    "pino": "^9.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-cache": "^5.1.2"
+  },
+  "author": "PutzzPedia",
+  "license": "ISC"
+}
